@@ -39,4 +39,6 @@ Todas as tarefas tiveram um delay em seus loops de 50 milissegundos, utilizando 
 
 Por fim, os requisitos foram cumpridos, fazendo com que o projeto tenha sido concluído em sua totalidade, implementando o semáforo, com tempos distintos entre os estados verde, amarelo e vermelho, implementando o aviso sonoro (e mais um visual). Além disso, o modo noturno também foi implementado, fazendo com que o semáforo pisque de forma intermitente o farol amarelo.
 
-# Link vídeo 
+# Link vídeo
+
+[Clique para abrir o vídeo](https://drive.google.com/file/d/1AjWi29Hp8S-UTJsGDqXHFkyyZmeRujaf/view?usp=sharing)
